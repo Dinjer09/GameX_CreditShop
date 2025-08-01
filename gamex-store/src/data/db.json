@@ -1,0 +1,9 @@
+{
+  "credits": [
+    { "id": 1, "name": "Starter Pack", "price": 4.99, "credits": 100 },
+    { "id": 2, "name": "Gamer Pack", "price": 9.99, "credits": 250 },
+    { "id": 3, "name": "Pro Gamer", "price": 19.99, "credits": 600 },
+    { "id": 4, "name": "VIP Elite", "price": 49.99, "credits": 2000 }
+  ],
+  "cart": []
+}
